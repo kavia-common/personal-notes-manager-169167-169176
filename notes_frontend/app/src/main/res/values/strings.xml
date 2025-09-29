@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="no_notes_yet">No notes yet. Tap + to add one.</string>
+    <string name="untitled">Untitled</string>
+    <string name="categories">Categories</string>
+    <string name="settings">Settings</string>
+    <string name="settings_about_text">Ocean Notes helps you capture thoughts quickly. Organized, simple, and elegant.</string>
+    <string name="add_category">Add category</string>
+    <string name="category_name">Category name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_category">Delete category</string>
+    <string name="delete_category_confirm">Delete category "%1$s"?</string>
+    <string name="notes_count">%1$d notes</string>
+    <string name="editor_title">Edit Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+</resources>
